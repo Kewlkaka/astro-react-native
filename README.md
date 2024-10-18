@@ -28,11 +28,11 @@ A community app, housing AI generated artwork from all over the world. Built wit
 
 - **Post Creation Screen for Uploading Media**: Upload video and image posts directly from the app with integrated media selection.
 
-👉 **Profile Screen with Detailed Insights**: View account details and activity, including uploaded videos and follower count, for a personalized experience.
+- **Profile Screen with Detailed Insights**: View account details and activity, including uploaded videos and follower count, for a personalized experience.
 
-👉 **Responsiveness**: Smooth performance and adaptability across various devices and screen sizes for a consistent user experience.
+- **Responsiveness**: Smooth performance and adaptability across various devices and screen sizes for a consistent user experience.
 
-👉 **Animations**: Dynamic animations using the Animatable library to enhance user interaction and engagement throughout the app's UI.
+- **Animations**: Dynamic animations using the Animatable library to enhance user interaction and engagement throughout the app's UI.
 
 ---
 
